@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Dale",
+			"dale",
+			[
+				20,
+				0,
+				60
+			]
+		],
+		[
+			"Poopers",
+			"awesomeson",
+			[
+				80,
+				255,
+				60
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "dale and awesome son",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
